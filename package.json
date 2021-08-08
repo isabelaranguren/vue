@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "vue": "^2.6.14"
+  },
+  "name": "vue",
+  "description": "The Complete Guide (w/ Router, Vuex, Composition API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabelaranguren/vue.git"
+  },
+  "author": "Isabel Aranguren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabelaranguren/vue/issues"
+  },
+  "homepage": "https://github.com/isabelaranguren/vue#readme"
+}
